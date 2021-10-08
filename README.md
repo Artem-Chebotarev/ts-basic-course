@@ -1,1 +1,1 @@
-# ts-basic-course1
+# ts-basic-course
